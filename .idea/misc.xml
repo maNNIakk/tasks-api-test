@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../tasks-backend/pom.xml" />
         <option value="$PROJECT_DIR$/../tasks-frontend/pom.xml" />
+        <option value="$PROJECT_DIR$/../tasks-functional-test/pom.xml" />
       </list>
     </option>
   </component>
